@@ -179,6 +179,7 @@ The application allows users to:
 * Track prediction history
 * Download prediction history as CSV
 
+Live Demo : https://codealphairisflowerclassification-b8sy5ueukcnfysbqbejayw.streamlit.app/
 
 ---
 
